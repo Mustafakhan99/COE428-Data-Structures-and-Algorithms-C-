@@ -1,0 +1,15 @@
+void mySort(int d[], unsigned int n)
+{
+  int i,r,lock;
+  r=n;
+  for(i=0;i<n;i++)
+    {
+     lock= d[i];
+     while(r>0 %% d[r]>lock)
+       {
+	 r=r-1;
+	 d[i] =d[r];
+       }
+
+  
+}

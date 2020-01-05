@@ -1,0 +1,19 @@
+Name:Muhammad Mustafa khan
+ID:500827365
+
+All of the following programs work.
+
+Question 1
+a.Recursion will call towers(4,2,1)
+               
+b.towers() will be invoked a total of 5 times before it returns an initial
+ invocation.
+c.the first move will tower 2 to tower 3
+d.the second call will produce towers(3,2,3)
+
+Question 2:
+255 lines in total.
+ 
+towersMain.c Has code in it for accepting arugments, althought I clearly have a condition if argc>0, the code still doesnt print out an error for invalid inputs. I mean confident that my code makes sense.
+
+

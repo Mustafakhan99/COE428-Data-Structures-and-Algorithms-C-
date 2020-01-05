@@ -1,0 +1,42 @@
+Name: Muhammad Mustafa Khan
+ID:500827365
+Summarize your lab:
+  Part 1:
+     Works  Yes 
+     
+  Part 2:
+     Works  Yes 
+     
+  Part 3:
+     Works No - I had a hard time implementing parts 1 and 2, i was not able to implement part 3 at all. I was also out of time at this point.
+***ANSWERS TO QUESTIONS***
+ Question 1:
+     Which hash table collision resolution method did you use
+     (eg. chaining or open addressing)? Explain your choice
+     briefly (less than 25 words).
+ YOUR ANSWER:
+ I would use Chaining as it much easier for collision than open addressing as 
+it only requires a pointer to other entry values when they are repeated.
+ 
+  Question 2:
+       Which hash function (division or multiplication) did you use?
+       How did you convert a string into a number?
+ YOUR ANSWER:
+ I used the division function. I did not complete part 3.
+ 
+ 
+ 
+ Question 3:
+       Another legal XML tag not used in this lab is the
+       stand-alone tag.  This kind of tag
+       combines both a start-tag and end-tag in one.
+       It is identified with a '/' (slash) preceding the
+       final >.  (For example, the <foo/>
+       is a stand-alone tag that is self balancing.
+       
+       Describe briefly how
+       you would modify Part 3 to allow this kind of tag.
+       
+ YOUR ANSWER:  I did not get a chance to attempt part 3. Part 1 and 2 took a majority of my time.
+Please consider this while you are grading this lab as I've had a rough week full of exam marks :(.
+  

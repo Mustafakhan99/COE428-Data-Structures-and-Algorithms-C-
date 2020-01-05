@@ -1,0 +1,11 @@
+Implemented both Merge and Insertion sort Successfully. There were no errors but did not test out my algorithm
+as I was not able to connect the school server. 
+Analysis of Insertion :
+Best case: O(n), 0 copies and swaps, and n comparisons.
+Worst Case: O(n^2),n-1 copies,(n(n-1)) swaps and comparisons.
+Average Case: Same as worst case.
+
+Analysis of Merge:
+Best case:O(nlogn)
+Worst case: same as best case
+Average Case: Same as best case.
